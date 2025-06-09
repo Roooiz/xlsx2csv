@@ -9,8 +9,8 @@ This project created for help converted .xlsx to .csv files
 ./xlsx2csv -input=path/to/dir/or/file -outdir=path/to/dir/to/save/csv -enc=utf8
 ```
 ## Launch options
- -input - path to XLSX file or folder with xLSX files, -input - Way to the XLSX file or folder with xLSX files
- -outdir - the path to the folder to save CSV (if the entrance is the folder)., The path to the folder to preserve CSV (if the entrance is the folder).
- -enc - coding CSV (UTF-8 by default, UTF-16le, UTF-16BE, Windows-1251, ISO-8859-1), coding of the output CSV (UTF-8 by default, UTF-16le, UTF-16BE, Windows-1251, ISO-8859-1)
- -sheet - the name of the sheet for conversion (by default is the first), The name of the sheet for conversion (by default first)
- -delim - Field separator in CSV (by default ';')
+ -  -input - path to XLSX file or folder with xLSX files, -input - Way to the XLSX file or folder with xLSX files
+ - -outdir - the path to the folder to save CSV (if the entrance is the folder)., The path to the folder to preserve CSV (if the entrance is the folder).
+ - -enc - coding CSV (UTF-8 by default, UTF-16le, UTF-16BE, Windows-1251, ISO-8859-1), coding of the output CSV (UTF-8 by default, UTF-16le, UTF-16BE, Windows-1251, ISO-8859-1)
+ - -sheet - the name of the sheet for conversion (by default is the first), The name of the sheet for conversion (by default first)
+ - -delim - Field separator in CSV (by default ';')
