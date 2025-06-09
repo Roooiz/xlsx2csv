@@ -7,6 +7,7 @@
 *.dll
 *.so
 *.dylib
+/xlsx2csv
 
 # Test binary, built with `go test -c`
 *.test
